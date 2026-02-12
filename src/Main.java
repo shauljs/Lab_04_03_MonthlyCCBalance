@@ -13,6 +13,6 @@ public class Main {
 
         twoMonthBalance = (oneMonthBalance * .17) + oneMonthBalance;
 
-        System.out.println("Your balance due after two motnhs is $" + twoMonthBalance + "0.");
+        System.out.println("Your balance due after two months is $" + twoMonthBalance + "0.");
     }
 }
